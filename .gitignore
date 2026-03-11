@@ -1,0 +1,29 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Автогенерируемые файлы
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Файлы Asset Store
+[Aa]ssets/AssetStoreTools*
+
+# Файлы пакетов
+**/Assets/Packages/*
+
+# Настройки IDE
+.vs/
+.idea/
+.vscode/
