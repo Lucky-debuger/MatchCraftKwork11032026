@@ -91,7 +91,7 @@ public class InitScript : MonoBehaviour
         }
     }
 
-    public int CapOfLife = 5;
+    public int CapOfLife = 50;
     public float TotalTimeForRestLifeHours = 0;
     public float TotalTimeForRestLifeMin = 15;
     public float TotalTimeForRestLifeSec = 60;
