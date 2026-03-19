@@ -21432,7 +21432,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22492570, guid: acb13cf7f83bfd34ab58c92ae4926c80, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 98.42999
+      value: 98.42993
       objectReference: {fileID: 0}
     - target: {fileID: 22495734, guid: acb13cf7f83bfd34ab58c92ae4926c80, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -26064,10 +26064,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pictures:
   - {fileID: 21300000, guid: 7a3967322dd0d2a4f99da6aaf2c4f8f8, type: 3}
-  - {fileID: 21300000, guid: 70016306539ed0649ac0a7d0efdace4e, type: 3}
-  - {fileID: 21300000, guid: 4823085e90b13954da693b399f978659, type: 3}
-  - {fileID: 21300000, guid: b987a3b73e2e60c4b84a1ae44f649911, type: 3}
-  - {fileID: 21300000, guid: 113aedde8cbd76440a60dd7f18c72b25, type: 3}
+  - {fileID: 21300000, guid: 2a35f55f59a119543baa32d40a1510a6, type: 3}
+  - {fileID: 21300000, guid: f710103b6789032479eeb40edde5490c, type: 3}
+  - {fileID: 21300000, guid: 1601c3426332dde41807cf066c17b659, type: 3}
+  - {fileID: 21300000, guid: 8680afdc786a61742900ba050c67f215, type: 3}
   changeBackgoundEveryLevels: 20
 --- !u!1 &1663587256
 GameObject:
