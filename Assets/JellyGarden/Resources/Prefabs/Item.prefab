@@ -56,25 +56,25 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 8fd43c051f33a3148b0fab24dcb2e310, type: 3}
   prefabs: []
   stripedItems:
-  - horizontal: {fileID: 21300000, guid: ab4ddda7d92b01c4085d3ac1a497aa4b, type: 3}
-    vertical: {fileID: 21300000, guid: 68c7946ec52a0bb4dbba87e188efccff, type: 3}
-  - horizontal: {fileID: 21300000, guid: d0d1a14d258b8e540a6cc5892453e9f8, type: 3}
-    vertical: {fileID: 21300000, guid: 2b5c12b509e72de4ba1237b8c23a0129, type: 3}
-  - horizontal: {fileID: 21300000, guid: 2aafac36965f31649adac4da8162adab, type: 3}
-    vertical: {fileID: 21300000, guid: 4fdfe3376d8ef2745a2d5a11b2e0cc28, type: 3}
-  - horizontal: {fileID: 21300000, guid: aecedaf9b3efd2b478e71830f5257bde, type: 3}
-    vertical: {fileID: 21300000, guid: 153a2a2dcfc0a48479793498f325006c, type: 3}
-  - horizontal: {fileID: 21300000, guid: 51996103d73cf0641b4dcf412e909b99, type: 3}
-    vertical: {fileID: 21300000, guid: 15aefe33c445be54f9512fb6a204a5d8, type: 3}
-  - horizontal: {fileID: 21300000, guid: faf3328496bf1d646a59c8efd33135b3, type: 3}
-    vertical: {fileID: 21300000, guid: ae090ef61c450ac48a336f7dfb6dd14c, type: 3}
+  - horizontal: {fileID: 21300000, guid: 23b3992fe707fac47834c434d6a9813b, type: 3}
+    vertical: {fileID: 21300000, guid: 49ac3f42112ed78429bdb04ff799740d, type: 3}
+  - horizontal: {fileID: 21300000, guid: 0b0a1c1c671dc03489c601208335345d, type: 3}
+    vertical: {fileID: 21300000, guid: 59766dc710a58c245b323a71199f973a, type: 3}
+  - horizontal: {fileID: 21300000, guid: f3e26b99132d37f4e84b83cdebf59c4c, type: 3}
+    vertical: {fileID: 21300000, guid: 15240fc887ba8c045b104db68bc131a7, type: 3}
+  - horizontal: {fileID: 21300000, guid: ff460e89366de5a4883504f82888082b, type: 3}
+    vertical: {fileID: 21300000, guid: 93df6ca3f5e66e04ebaa8da1099713e8, type: 3}
+  - horizontal: {fileID: 21300000, guid: 81dfc128797e9bc4db917fba3d59095b, type: 3}
+    vertical: {fileID: 21300000, guid: 3f9b873326d9cb540bb6f8072ebefe56, type: 3}
+  - horizontal: {fileID: 21300000, guid: 6e345149ab0740a4883eb11e8fe481ce, type: 3}
+    vertical: {fileID: 21300000, guid: 3afe5ce4ecb829444b4d5e48b4980c81, type: 3}
   packageItems:
-  - {fileID: 21300000, guid: 10f2a490d2b90d14d850eb7862e4205b, type: 3}
-  - {fileID: 21300000, guid: d9f71c4d7d103d044b709d8ce687e4f4, type: 3}
-  - {fileID: 21300000, guid: eb4435d4c3391074b9a37502550eefe3, type: 3}
-  - {fileID: 21300000, guid: a51f3bb6708ed7f4493c6cc9ad39d3b7, type: 3}
-  - {fileID: 21300000, guid: 629ca9ed87baabb45ab8795e19756ef5, type: 3}
-  - {fileID: 21300000, guid: 96a9a1afee3999849b1b2a8bfc6ca430, type: 3}
+  - {fileID: 21300000, guid: 8fdd34499de079f45a3451bab93bf3f5, type: 3}
+  - {fileID: 21300000, guid: f8cd9be4d604571439cfee053f009ea0, type: 3}
+  - {fileID: 21300000, guid: f5b4e8efa8deb354385c47058524d02b, type: 3}
+  - {fileID: 21300000, guid: 112f95f2d65a3524d9cf5c7142c93b39, type: 3}
+  - {fileID: 21300000, guid: e07e9caef93212249995b012dabd6529, type: 3}
+  - {fileID: 21300000, guid: 7ccce4eba2e2a90439a223a1cae7ff1a, type: 3}
   bombItems:
   - {fileID: 21300000, guid: 94dcd4e445fa3304cac0df9fb81587a3, type: 3}
   ingredientItems:
